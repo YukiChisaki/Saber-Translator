@@ -51,7 +51,7 @@ models/
 data/
 
 # --- 配置文件 ---
-config/
+/config/
 
 # --- PyInstaller ---
 *.manifest
