@@ -1,3 +1,12 @@
+### 个人二开定制化
+＋　新增编辑模式打开设置的按钮
+
+![alt text](pic/mybtn.png)
+
+    
+----
+
+
 <p align="center">
     <img src="pic/logo.png" alt="Saber-Translator Logo" width="200">
 </p>
